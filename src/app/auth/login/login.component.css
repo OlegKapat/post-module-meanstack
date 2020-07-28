@@ -1,0 +1,7 @@
+mat-form-field,textarea{
+    width: 100%;
+    margin: 10px;
+}
+mat-spinner{
+    margin: auto;
+}

@@ -1,0 +1,6 @@
+{
+  "env":{
+    "MONGO_PASSWORD":"1q2q3q4q",
+    "JWT_KEY":"secter_key_for_project"
+  }
+}
